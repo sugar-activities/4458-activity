@@ -1,0 +1,7 @@
+[Activity]
+name = Totem
+service_name = org.x.JAMTotem
+icon = Totem
+activity_version = 2
+show_launcher = yes
+exec = sugarTotem
